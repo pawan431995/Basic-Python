@@ -3,8 +3,10 @@
 Python built-in function id() returns a unique integer as identity of object.
 Identity operators compare the memory locations of two objects.
 There are two Identity operators as explained below −
+
 is
 not is
+
 '''
 a = 20
 b = 20

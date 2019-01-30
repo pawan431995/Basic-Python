@@ -8,7 +8,7 @@ print(name)
 
 
 print("\nMultiple Assignment to variable")
-a=b=c=1
+a = b = c = 1
 
 print("A=", a)
 
